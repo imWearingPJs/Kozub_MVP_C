@@ -1,0 +1,6 @@
+framework module Pods_Kozub_MVP_C {
+  umbrella header "Pods-Kozub_MVP_C-umbrella.h"
+
+  export *
+  module * { export * }
+}
